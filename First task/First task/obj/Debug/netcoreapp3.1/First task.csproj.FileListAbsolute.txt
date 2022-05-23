@@ -1,0 +1,32 @@
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.exe
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.deps.json
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.runtimeconfig.json
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.runtimeconfig.dev.json
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.dll
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.pdb
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.AssemblyInfo.cs
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\staticwebassets\First task.StaticWebAssets.Manifest.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.RazorTargetAssemblyInfo.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.dll
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.pdb
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.genruntimeconfig.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.Views.dll
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\bin\Debug\netcoreapp3.1\First task.Views.pdb
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.RazorAssemblyInfo.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.RazorAssemblyInfo.cs
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.TagHelpers.input.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.TagHelpers.output.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.RazorCoreGenerate.cache
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.RazorTargetAssemblyInfo.cs
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.Views.pdb
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\First task.csproj.CopyComplete
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\resid\Desktop\ASP.NET Tasks\First task\First task\obj\Debug\netcoreapp3.1\Razor\Views\Shear\_Layout.cshtml.g.cs
